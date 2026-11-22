@@ -1,0 +1,322 @@
+[
+  {
+    "q": "Se confirma faringitis por estreptococo A y un médico decide tratarla. ¿Qué grupo corresponde?",
+    "correct": 0,
+    "why": "El estreptococo es una bacteria y puede requerir un antibiótico indicado por un médico."
+  },
+  {
+    "q": "Un urocultivo confirma una infección urinaria bacteriana que debe tratarse. ¿Qué grupo se usa?",
+    "correct": 0,
+    "why": "Se elige un antibiótico según diagnóstico, antecedentes y susceptibilidad."
+  },
+  {
+    "q": "En el hospital se identifica meningitis bacteriana. ¿Qué tratamiento específico requiere?",
+    "correct": 0,
+    "why": "Es una urgencia: necesita antibióticos adecuados administrados bajo supervisión médica."
+  },
+  {
+    "q": "Una prueba confirma gonorrea. ¿Qué grupo integra el tratamiento indicado?",
+    "correct": 0,
+    "why": "Es una infección bacteriana de transmisión sexual y requiere tratamiento antibiótico indicado."
+  },
+  {
+    "q": "Una evaluación confirma neumonía causada por bacterias sensibles. ¿Qué grupo corresponde?",
+    "correct": 0,
+    "why": "Las neumonías bacterianas pueden requerir antibióticos."
+  },
+  {
+    "q": "Se diagnostica tos ferina causada por Bordetella pertussis. ¿Qué grupo puede indicarse?",
+    "correct": 0,
+    "why": "La tos ferina es una enfermedad bacteriana y puede tratarse con antibióticos apropiados."
+  },
+  {
+    "q": "Un análisis confirma sífilis. ¿Qué grupo utiliza el profesional sanitario?",
+    "correct": 0,
+    "why": "La sífilis es causada por una bacteria y requiere tratamiento antibiótico."
+  },
+  {
+    "q": "Se confirma clamidia por una prueba. ¿Qué grupo de medicamentos la trata?",
+    "correct": 0,
+    "why": "Una infección por Chlamydia trachomatis se trata con antibióticos indicados."
+  },
+  {
+    "q": "Se confirma Helicobacter pylori y se prescribe erradicación. ¿Qué grupo forma parte de la pauta?",
+    "correct": 0,
+    "why": "El tratamiento de H. pylori puede incluir varios antibióticos junto a otros fármacos."
+  },
+  {
+    "q": "Una valoración encuentra celulitis bacteriana de la piel. ¿Qué grupo puede necesitarse?",
+    "correct": 0,
+    "why": "La infección cutánea bacteriana puede necesitar antibióticos."
+  },
+  {
+    "q": "En el hospital se confirma una sepsis de origen bacteriano. ¿Qué grupo se administra?",
+    "correct": 0,
+    "why": "La sepsis bacteriana exige tratamiento urgente, entre otras medidas, con antibióticos."
+  },
+  {
+    "q": "Se confirma endocarditis bacteriana en un hospital. ¿Qué grupo se usa?",
+    "correct": 0,
+    "why": "La endocarditis bacteriana requiere tratamiento antibiótico especializado."
+  },
+  {
+    "q": "Se identifica una infección de herida por bacterias sensibles. ¿Qué grupo puede indicarse?",
+    "correct": 0,
+    "why": "Después de evaluar y tratar la herida, puede requerirse antibiótico."
+  },
+  {
+    "q": "Una sinusitis bacteriana se confirma y cumple criterios de tratamiento. ¿Qué grupo considera el médico?",
+    "correct": 0,
+    "why": "Solo algunos casos de sinusitis requieren antibióticos; decide un profesional."
+  },
+  {
+    "q": "Se confirma infección bacteriana de un implante y se planifica el manejo. ¿Qué grupo puede incluirse?",
+    "correct": 0,
+    "why": "Se necesitan antibióticos y, a veces, procedimientos para controlar el foco."
+  },
+  {
+    "q": "Un cultivo confirma bacteriemia y hay indicación clínica de tratamiento. ¿Qué grupo corresponde?",
+    "correct": 0,
+    "why": "Una infección bacteriana en sangre necesita atención médica y antibióticos apropiados."
+  },
+  {
+    "q": "Se confirma influenza en una persona con riesgo alto de complicaciones. ¿Qué medicamento específico puede indicarse?",
+    "correct": 1,
+    "why": "Determinados antivirales pueden ser útiles para influenza, especialmente si se indican a tiempo."
+  },
+  {
+    "q": "Una persona consulta por herpes zóster reciente y el médico valora tratarlo. ¿Qué grupo?",
+    "correct": 1,
+    "why": "El herpes zóster es viral; un antiviral puede reducir la duración y complicaciones en determinados casos."
+  },
+  {
+    "q": "Se diagnostican brotes recurrentes de herpes simple. ¿Qué grupo puede prescribirse?",
+    "correct": 1,
+    "why": "Existen antivirales específicos para las infecciones por herpes simple."
+  },
+  {
+    "q": "Una prueba confirma VIH y se inicia tratamiento. ¿Qué grupo corresponde?",
+    "correct": 1,
+    "why": "La terapia antirretroviral controla la infección por VIH mediante medicamentos antivirales."
+  },
+  {
+    "q": "Se confirma hepatitis C y se indica tratamiento curativo. ¿Qué grupo corresponde?",
+    "correct": 1,
+    "why": "Los antivirales de acción directa permiten curar muchas infecciones por hepatitis C."
+  },
+  {
+    "q": "Una persona trasplantada presenta infección por citomegalovirus. ¿Qué grupo puede usarse?",
+    "correct": 1,
+    "why": "En el contexto adecuado se emplean antivirales contra CMV bajo vigilancia médica."
+  },
+  {
+    "q": "Una persona con COVID-19 y alto riesgo es evaluada al inicio de síntomas. ¿Qué grupo podría ofrecerse?",
+    "correct": 1,
+    "why": "Algunas personas de alto riesgo pueden beneficiarse de antivirales específicos."
+  },
+  {
+    "q": "Se confirma hepatitis B crónica que cumple indicaciones de tratamiento. ¿Qué grupo corresponde?",
+    "correct": 1,
+    "why": "En ciertos pacientes se prescriben antivirales para controlar la hepatitis B."
+  },
+  {
+    "q": "En un hospital se trata herpes neonatal confirmado. ¿Qué grupo se necesita?",
+    "correct": 1,
+    "why": "El herpes neonatal exige atención urgente y puede requerir antivirales intravenosos."
+  },
+  {
+    "q": "Se diagnostica encefalitis por herpes simple. ¿Qué grupo se utiliza urgentemente?",
+    "correct": 1,
+    "why": "La encefalitis herpética se trata de forma urgente con antivirales hospitalarios."
+  },
+  {
+    "q": "Un oftalmólogo confirma queratitis por herpes simple. ¿Qué grupo puede usar?",
+    "correct": 1,
+    "why": "Se utilizan antivirales específicos para evitar daños oculares."
+  },
+  {
+    "q": "Una persona de alto riesgo consulta por varicela complicada. ¿Qué grupo puede indicarse?",
+    "correct": 1,
+    "why": "En casos indicados de varicela pueden utilizarse antivirales."
+  },
+  {
+    "q": "Tras exposición a influenza en un contexto de alto riesgo, el médico considera profilaxis. ¿Qué grupo?",
+    "correct": 1,
+    "why": "En situaciones concretas puede indicarse profilaxis antiviral para influenza."
+  },
+  {
+    "q": "Se confirma herpes genital en primer episodio. ¿Qué grupo puede recetarse?",
+    "correct": 1,
+    "why": "Los antivirales acortan episodios de herpes genital; el profesional decide pauta."
+  },
+  {
+    "q": "En un paciente inmunosuprimido con enfermedad viral tratable se elige medicación dirigida al virus. ¿Qué grupo?",
+    "correct": 1,
+    "why": "El tratamiento contra un virus concreto corresponde a antivirales específicos."
+  },
+  {
+    "q": "Se diagnostica herpes zóster oftálmico y se inicia atención urgente. ¿Qué grupo?",
+    "correct": 1,
+    "why": "Un antiviral indicado con rapidez es parte frecuente del manejo especializado."
+  },
+  {
+    "q": "Una evaluación confirma tiña del pie. ¿Qué tipo de fármaco podría recetarse?",
+    "correct": 2,
+    "why": "La tiña es causada por hongos y se trata con antifúngicos adecuados."
+  },
+  {
+    "q": "Se confirma candidiasis oral y se necesita tratar. ¿Qué grupo corresponde?",
+    "correct": 2,
+    "why": "Las infecciones por Candida requieren antifúngicos según el caso."
+  },
+  {
+    "q": "Una prueba confirma candidiasis vaginal con síntomas. ¿Qué grupo puede indicarse?",
+    "correct": 2,
+    "why": "Los antifúngicos son tratamientos específicos contra Candida."
+  },
+  {
+    "q": "Se confirma una infección micótica en las uñas. ¿Qué grupo considera el médico?",
+    "correct": 2,
+    "why": "La onicomicosis puede requerir antifúngicos locales o sistémicos, según evaluación."
+  },
+  {
+    "q": "Se diagnostica tiña del cuero cabelludo. ¿Qué grupo puede ser necesario?",
+    "correct": 2,
+    "why": "La tiña del cuero cabelludo suele requerir antifúngicos sistémicos."
+  },
+  {
+    "q": "Un paciente presenta candidiasis esofágica confirmada. ¿Qué grupo se utiliza?",
+    "correct": 2,
+    "why": "Se emplean antifúngicos apropiados, bajo indicación médica."
+  },
+  {
+    "q": "El hospital confirma aspergilosis invasiva. ¿Qué grupo debe considerarse?",
+    "correct": 2,
+    "why": "La aspergilosis invasiva requiere tratamiento antifúngico especializado."
+  },
+  {
+    "q": "Se confirma criptococosis. ¿Qué grupo corresponde al tratamiento?",
+    "correct": 2,
+    "why": "Las infecciones por Cryptococcus requieren antifúngicos específicos."
+  },
+  {
+    "q": "Se confirma histoplasmosis que necesita tratamiento. ¿Qué grupo corresponde?",
+    "correct": 2,
+    "why": "Algunas formas de histoplasmosis requieren antifúngicos."
+  },
+  {
+    "q": "Se identifica candidemia en un hospital. ¿Qué grupo se administra?",
+    "correct": 2,
+    "why": "La Candida en sangre es una infección grave tratada con antifúngicos."
+  },
+  {
+    "q": "Un especialista confirma otitis externa por hongos. ¿Qué grupo puede aplicarse?",
+    "correct": 2,
+    "why": "Las infecciones fúngicas del oído pueden tratarse con antifúngicos indicados."
+  },
+  {
+    "q": "Se diagnostica tiña corporal mediante examen. ¿Qué grupo se usa?",
+    "correct": 2,
+    "why": "Un antimicótico, sinónimo de antifúngico, actúa contra hongos."
+  },
+  {
+    "q": "Se identifica tiña inguinal. ¿Qué tipo de medicamento se usa?",
+    "correct": 2,
+    "why": "La tiña inguinal es una infección fúngica tratable con antifúngicos."
+  },
+  {
+    "q": "Una valoración confirma pitiriasis versicolor. ¿Qué grupo suele ser útil?",
+    "correct": 2,
+    "why": "La pitiriasis versicolor se asocia a levaduras y se trata con antifúngicos."
+  },
+  {
+    "q": "Se confirma queratitis por hongos en evaluación ocular urgente. ¿Qué grupo corresponde?",
+    "correct": 2,
+    "why": "Es una urgencia oftalmológica que requiere antifúngicos específicos."
+  },
+  {
+    "q": "Se identifica intertrigo por Candida. ¿Qué grupo puede indicarse?",
+    "correct": 2,
+    "why": "El tratamiento puede incluir antimicóticos y control de humedad."
+  },
+  {
+    "q": "Tienes un resfriado común sin evaluación. ¿Qué decisión es más segura?",
+    "correct": 3,
+    "why": "Los antibióticos no curan el resfriado, que es viral."
+  },
+  {
+    "q": "Tu moco nasal se volvió verde, pero no has sido evaluado. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "El color del moco por sí solo no justifica antibióticos."
+  },
+  {
+    "q": "Tienes estornudos y picazón por alergia estacional. ¿Qué harías?",
+    "correct": 3,
+    "why": "Las alergias no se tratan con antimicrobianos."
+  },
+  {
+    "q": "Hay tos por asma sin datos de infección. ¿Qué es razonable?",
+    "correct": 3,
+    "why": "El asma no implica por sí sola necesidad de antibióticos."
+  },
+  {
+    "q": "Una persona tiene dolor de cabeza sin diagnóstico. ¿Qué debe hacer?",
+    "correct": 3,
+    "why": "Un dolor de cabeza no indica usar antimicrobianos."
+  },
+  {
+    "q": "Te duele la garganta y quieres usar una receta antigua. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "Muchas faringitis son virales; hace falta evaluar antes de medicar."
+  },
+  {
+    "q": "Tienes vómitos y diarrea compatibles con gastroenteritis viral. ¿Qué evitar?",
+    "correct": 3,
+    "why": "No se usan antibióticos por rutina en las gastroenteritis virales."
+  },
+  {
+    "q": "Una cicatriz antigua no infectada está roja tras ejercicio. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "Un cambio de aspecto aislado requiere valorar su causa; no automedicar."
+  },
+  {
+    "q": "Te duele una muela y tienes antibióticos sobrantes. ¿Qué es mejor?",
+    "correct": 3,
+    "why": "El dolor dental requiere valoración; los antibióticos no sustituyen el tratamiento odontológico."
+  },
+  {
+    "q": "Un amigo ofrece antibióticos sobrantes de su última infección. ¿Qué hacer?",
+    "correct": 3,
+    "why": "No deben compartirse ni reutilizarse los antibióticos."
+  },
+  {
+    "q": "Planeas viajar y quieres tomar antibióticos por si acaso. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "Evita antibióticos preventivos sin indicación profesional específica."
+  },
+  {
+    "q": "Un médico considera bronquitis aguda viral no complicada. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "Los antibióticos no se recomiendan por rutina para bronquitis aguda viral."
+  },
+  {
+    "q": "Hay ardor al orinar, pero se desconoce la causa. ¿Qué hacer?",
+    "correct": 3,
+    "why": "El ardor puede tener múltiples causas y necesita evaluación antes de tratar."
+  },
+  {
+    "q": "Tienes fiebre sin diagnóstico y alguien ofrece azitromicina. ¿Qué es mejor?",
+    "correct": 3,
+    "why": "La fiebre sola no determina que se necesiten antibióticos."
+  },
+  {
+    "q": "El profesional diagnostica conjuntivitis viral. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "Los antibióticos no actúan contra los virus causantes de conjuntivitis viral."
+  },
+  {
+    "q": "Estás bien, pero quieres tomar antibióticos para no enfermarte. ¿Qué corresponde?",
+    "correct": 3,
+    "why": "No tomes antibióticos sin una indicación clínica concreta."
+  }
+]

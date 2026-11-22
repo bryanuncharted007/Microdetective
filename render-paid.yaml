@@ -1,0 +1,23 @@
+# Microdetectives V3 - Render Blueprint
+# PRECAUCION: el plan starter y el disco persistente son de pago.
+# Revisar los costos y aprobar expresamente antes de aplicar el Blueprint.
+services:
+  - type: web
+    name: microdetectives-liga
+    runtime: docker
+    plan: starter
+    region: oregon
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
+    numInstances: 1
+    disk:
+      name: microdetectives-datos
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: MICRO_DB_PATH
+        value: /data/microdetectives.sqlite3
+      - key: MICRO_ADMIN_KEY
+        sync: false
+      - key: PYTHONUNBUFFERED
+        value: '1'

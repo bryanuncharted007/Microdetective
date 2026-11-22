@@ -1,0 +1,394 @@
+{
+  "crossword": [
+    [
+      [
+        "VIRUS",
+        "Microbio que necesita células para multiplicarse."
+      ],
+      [
+        "HONGO",
+        "Grupo al que pertenece el microorganismo que causa tiña."
+      ],
+      [
+        "BACTERIA",
+        "Microorganismo unicelular; algunas especies causan infecciones."
+      ],
+      [
+        "VACUNA",
+        "Ayuda a prevenir determinadas enfermedades infecciosas."
+      ],
+      [
+        "RECETA",
+        "Documento que contiene una prescripción de un profesional."
+      ],
+      [
+        "SALUD",
+        "Bienestar físico, mental y social."
+      ],
+      [
+        "FIEBRE",
+        "Elevación de la temperatura corporal."
+      ],
+      [
+        "TOS",
+        "Expulsión brusca de aire para limpiar vías respiratorias."
+      ],
+      [
+        "MANOS",
+        "Debemos lavarlas para prevenir contagios."
+      ],
+      [
+        "JABON",
+        "Producto que usamos con agua para lavarnos."
+      ]
+    ],
+    [
+      [
+        "GRIPE",
+        "Enfermedad viral causada por influenza."
+      ],
+      [
+        "RESFRIADO",
+        "Infección viral común de vías respiratorias superiores."
+      ],
+      [
+        "DOCTOR",
+        "Profesional médico que puede evaluar una infección."
+      ],
+      [
+        "CONTAGIO",
+        "Transmisión de un agente infeccioso."
+      ],
+      [
+        "SINTOMA",
+        "Manifestación que una persona nota de una enfermedad."
+      ],
+      [
+        "HIGIENE",
+        "Hábitos que ayudan a evitar infecciones."
+      ],
+      [
+        "INFECCION",
+        "Entrada y multiplicación de un agente que causa enfermedad."
+      ],
+      [
+        "ALERGIA",
+        "Respuesta inmunitaria adversa posible ante un medicamento."
+      ],
+      [
+        "DOSIS",
+        "Cantidad de medicamento indicada para administrarse."
+      ],
+      [
+        "MEDICO",
+        "Profesional habilitado para evaluar e indicar tratamientos."
+      ],
+      [
+        "FARMACIA",
+        "Lugar donde se dispensan medicamentos."
+      ],
+      [
+        "PREVENIR",
+        "Tomar medidas para reducir el riesgo de enfermedad."
+      ]
+    ],
+    [
+      [
+        "ANTIBIOTICO",
+        "Medicamento empleado contra ciertas infecciones bacterianas."
+      ],
+      [
+        "ANTIVIRAL",
+        "Fármaco utilizado contra determinados virus."
+      ],
+      [
+        "ANTIMICOTICO",
+        "Sinónimo de antifúngico."
+      ],
+      [
+        "MICROBIOTA",
+        "Conjunto de microorganismos que habita nuestro cuerpo."
+      ],
+      [
+        "DIARREA",
+        "Efecto adverso digestivo posible de algunos antibióticos."
+      ],
+      [
+        "MUCOSIDAD",
+        "Su color no confirma por sí solo infección bacteriana."
+      ],
+      [
+        "RESISTENCIA",
+        "Capacidad de algunos microbios para no responder a fármacos."
+      ],
+      [
+        "MICROSCOPIO",
+        "Instrumento para observar objetos diminutos."
+      ],
+      [
+        "CULTIVO",
+        "Prueba de laboratorio que permite crecer a ciertos microbios."
+      ],
+      [
+        "DIAGNOSTICO",
+        "Identificación de una enfermedad."
+      ],
+      [
+        "PACIENTE",
+        "Persona que recibe atención sanitaria."
+      ],
+      [
+        "GARGANTA",
+        "Zona que puede doler durante un resfriado."
+      ],
+      [
+        "PENICILINA",
+        "Antibiótico histórico derivado de un moho."
+      ],
+      [
+        "CONSULTA",
+        "Visita para recibir orientación de un profesional."
+      ],
+      [
+        "CONTAGIAR",
+        "Transmitir una infección a otra persona."
+      ]
+    ],
+    [
+      [
+        "AUTOMEDICACION",
+        "Uso de medicamentos por iniciativa propia sin evaluación apropiada."
+      ],
+      [
+        "PRESCRIPCION",
+        "Indicación profesional de un medicamento."
+      ],
+      [
+        "TRATAMIENTO",
+        "Conjunto de medidas para abordar una enfermedad."
+      ],
+      [
+        "BACTERIANA",
+        "Así se describe una infección causada por bacterias."
+      ],
+      [
+        "VIRAL",
+        "Así se describe una infección causada por virus."
+      ],
+      [
+        "FUNGICA",
+        "Así se describe una infección causada por hongos."
+      ],
+      [
+        "INMUNIDAD",
+        "Conjunto de defensas de nuestro organismo."
+      ],
+      [
+        "HOSPITAL",
+        "Centro de atención de salud con servicios clínicos."
+      ],
+      [
+        "REACCION",
+        "Respuesta del organismo, a veces adversa a un fármaco."
+      ],
+      [
+        "SELECCION",
+        "Proceso que puede favorecer bacterias resistentes."
+      ],
+      [
+        "MUTACION",
+        "Cambio en el material genético de un organismo."
+      ],
+      [
+        "RIESGO",
+        "Posibilidad de que ocurra un daño."
+      ],
+      [
+        "CUIDADOS",
+        "Medidas de atención y prevención de una enfermedad."
+      ],
+      [
+        "PROTECCION",
+        "Acciones para disminuir la exposición a riesgos."
+      ],
+      [
+        "MASCARILLA",
+        "Elemento que, según el contexto, ayuda a reducir transmisión respiratoria."
+      ],
+      [
+        "LABORATORIO",
+        "Lugar donde se pueden analizar muestras clínicas."
+      ],
+      [
+        "LAVADO",
+        "Acción de limpiar, por ejemplo, las manos con jabón."
+      ],
+      [
+        "MEDICAMENTO",
+        "Sustancia usada para prevenir, aliviar o tratar afecciones."
+      ],
+      [
+        "BOTIQUIN",
+        "Lugar de almacenamiento de material básico de primeros auxilios."
+      ],
+      [
+        "EFECTO",
+        "Resultado que produce una intervención o un fármaco."
+      ]
+    ],
+    [
+      [
+        "ANTIMICROBIANO",
+        "Término amplio: medicamentos contra distintos tipos de microbios."
+      ],
+      [
+        "EFECTOADVERSO",
+        "Daño o respuesta no deseada vinculada al tratamiento."
+      ],
+      [
+        "SUPERBACTERIA",
+        "Nombre popular para una bacteria resistente a varios fármacos."
+      ],
+      [
+        "RESPONSABLE",
+        "Así debe ser el uso de medicamentos."
+      ],
+      [
+        "USOINCORRECTO",
+        "Empleo de fármacos cuando no se necesitan o de forma indebida."
+      ],
+      [
+        "BACTERIOFAGO",
+        "Virus capaz de infectar bacterias."
+      ],
+      [
+        "COLONIZACION",
+        "Presencia de microorganismos sin causar necesariamente enfermedad."
+      ],
+      [
+        "MICROORGANISMO",
+        "Ser vivo o entidad microscópica en sentido general."
+      ],
+      [
+        "SEGUIMIENTO",
+        "Evaluación de la evolución tras una consulta."
+      ],
+      [
+        "INDICACION",
+        "Motivo clínico que justifica un tratamiento."
+      ],
+      [
+        "ANTIFUNGICO",
+        "Otro nombre para antimicótico."
+      ],
+      [
+        "INTERACCION",
+        "Cuando un fármaco influye sobre el efecto de otro."
+      ],
+      [
+        "HIDRATACION",
+        "Aporte adecuado de agua y líquidos."
+      ],
+      [
+        "TERAPEUTICA",
+        "Relacionada con el tratamiento de enfermedades."
+      ],
+      [
+        "EMERGENCIA",
+        "Situación que requiere atención inmediata."
+      ],
+      [
+        "PRECAUCION",
+        "Medida para evitar un daño."
+      ],
+      [
+        "SENSIBILIDAD",
+        "Característica de una bacteria que puede responder a un antibiótico."
+      ],
+      [
+        "INFLAMACION",
+        "Respuesta del tejido ante daño o infección."
+      ],
+      [
+        "HOSPITALIZACION",
+        "Ingreso de un paciente para atención en el hospital."
+      ],
+      [
+        "MUESTRA",
+        "Material recogido para una prueba de laboratorio."
+      ],
+      [
+        "ENFERMEDAD",
+        "Alteración del estado de salud."
+      ],
+      [
+        "FARMACO",
+        "Sustancia con efecto biológico usada como medicamento."
+      ],
+      [
+        "EVIDENCIA",
+        "Información científica que ayuda a decidir."
+      ],
+      [
+        "COMUNIDAD",
+        "Conjunto de personas entre quienes pueden propagarse microbios."
+      ],
+      [
+        "PREVENCION",
+        "Acciones para reducir probabilidad de enfermedad."
+      ]
+    ]
+  ],
+  "wordsearch": [
+    "VIRUS",
+    "BACTERIA",
+    "HONGO",
+    "MICROBIO",
+    "FIEBRE",
+    "TOS",
+    "SALUD",
+    "MANOS",
+    "JABON",
+    "CUIDADO",
+    "RESFRIADO",
+    "GRIPE",
+    "VACUNA",
+    "ANTIBIOTICO",
+    "RECETA",
+    "MEDICO",
+    "GERMEN",
+    "SINTOMA",
+    "CONTAGIO",
+    "HIGIENE",
+    "RESISTENCIA",
+    "MUTACION",
+    "SELECCION",
+    "FARMACIA",
+    "INFECCION",
+    "CULTIVO",
+    "DIAGNOSTICO",
+    "DEFENSAS",
+    "DOSIS",
+    "RIESGO",
+    "MICROBIOTA",
+    "DIARREA",
+    "ALERGIA",
+    "HOSPITAL",
+    "PREVENCION",
+    "CONSULTA",
+    "ANTIVIRAL",
+    "ANTIMICOTICO",
+    "PENICILINA",
+    "LABORATORIO",
+    "SUPERBACTERIA",
+    "ANTIMICROBIANO",
+    "AUTOMEDICACION",
+    "EFECTOADVERSO",
+    "PRESCRIPCION",
+    "SEGURIDAD",
+    "INDICACION",
+    "EVIDENCIA",
+    "REACCION",
+    "COMUNIDAD"
+  ]
+}

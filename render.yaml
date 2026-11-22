@@ -1,0 +1,17 @@
+# Demo gratuita: datos temporales, premios desactivados.
+# Para un evento real usar render-paid.yaml y aprobar el costo.
+services:
+  - type: web
+    name: microdetectives-demo
+    runtime: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
+    envVars:
+      - key: MICRO_DB_PATH
+        value: /tmp/microdetectives.sqlite3
+      - key: MICRO_DEMO_ONLY
+        value: '1'
+      - key: PYTHONUNBUFFERED
+        value: '1'
